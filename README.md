@@ -11,7 +11,7 @@ and cross-platform solutions.
 
 🚀 About Me
 - 🔭 Currently working on full-stack applications
-- 💻 Backend: C#, .NET, Node.js
+- 💻 Backend: C#, .NET, Node.js, python
 - ⚛️ Frontend: React, React Native
 - 🗄️ Database: PostgreSQL, SQL Server
 - 🐳 DevOps: Docker
@@ -24,13 +24,13 @@ Node.js • PostgreSQL • SQL Server • Docker • Git
 
 📌 Featured Projects
 
-- Project 1 — Short description
-- Project 2 — Short description
-- Project 3 — Short description
+- JDB_Ecommerce — This is a full-stack e commerce application for a cloth store build using .NETCore , React , PostgreSQL.
+- RAG Chatbot — This is an Retrieval Augmented Generation(RAG) based GenAI Chatbot Application build Using Python, react, Ollama, Llama . 
+- Portfolio — This is my basic Static SPA Portfolio website. 
 
 📫 Connect With Me
 
-LinkedIn | Portfolio | Email
+[LinkedIn](https://www.linkedin.com/in/mihir-nath/) | Portfolio | [Email](mimihir2@gmail.com)
 
 
 <!---
